@@ -3,4 +3,8 @@ Prva ura Gita
 
 
 pulltest
+
+konfikt
+
+
 newfiletest
