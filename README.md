@@ -1,2 +1,2 @@
 # miniature-pancake
-prva ura gita
+Prva ura Gita
